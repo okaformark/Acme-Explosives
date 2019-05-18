@@ -8,12 +8,13 @@ const domStringBuilder = (buildCards) => {
   // console.error(buildCards);
   let domString = '';
   buildCards.forEach((card) => {
-    domString += '<div class  = "col-3>';
-    domString += '<div class = "card-body">';
-    domString += `<h5>${card.name}</h5>`;
-    domString += `<h5>${card.catNames}</h5>`;
-    domString += `<h5>${card.typeName}</h5>`;
-    domString += `<h5>${card.description}</h5>`;
+    domString += '<div class="card-group col-3">';
+    domString += '<div class="card border-primary mb-3 mt-2 p-2 text-center ">';
+    domString += `<h5 class = "card-title">Product Name: <p class = "card-text">${card.name}</p></h5>`;
+    domString += `<h5 class = "card-title">Category Name: <p class = "card-text">${card.catNames}</p></h5>`;
+    domString += `<h5 class = "card-title">Type Name:  <p class = "card-text">${card.typeName}</p></h5>`;
+    domString += `<h5 class = "card-title">Description: <p class = "card-text">${card.description}</p></h5>`;
+    domString += '</div>';
     domString += '</div>';
     domString += '</div>';
   });
