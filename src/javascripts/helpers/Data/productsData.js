@@ -3,21 +3,26 @@ import axios from 'axios';
 const loadProductData = () => axios.get('../db/products.json');
 
 const getProductsForEachType = types => new Promise((resolve, reject) => {
-  console.error(typeof types);
+  console.error(types);
   axios.get('../db/products.json')
     .then((response) => {
       const { products } = response.data;
-      console.error(typeof products);
-      const productsWithTypes = types.map((type) => {
-        const newType = type;
-        const arrayObjects = Object.values(products[0]);
+      // console.error(typeof products);
+      const productsWithTypes = products.map((product) => {
+        // const newProduct = product;
+        const arrayObjects = Object.values(product);
+        const array = arrayObjects[0];
+        const newProduct = array;
         // console.error(arrayObjects);
-        const matchingTypes = arrayObjects.filter(product => product.type === type.id);
-        // console.error(matchingTypes);
-        newType.product = matchingTypes;
-        console.error(newType);
-        return newType;
+        const matchingTypes = types.filter(type => type.id === array.type);
+        const catNames = matchingTypes[0].categoryName;
+        const typeName = matchingTypes[0].name;
+        newProduct.catNames = catNames;
+        newProduct.typeName = typeName;
+        // newProduct.product = matchingTypes;
+        return newProduct;
       });
+      console.error(productsWithTypes);
       resolve(productsWithTypes);
     })
     .catch(err => reject(err));

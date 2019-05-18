@@ -1,109 +1,142 @@
 {
-  "products": 
-  [
-    {
+  "products": [{
+
       "fairy_sparklers": {
         "id": "product0",
         "type": "type0",
         "name": "Fairy Sparklers",
         "description": "Multi-colored sparklers that are safe for any age."
-      },
+      }
+  },
+  {
       "bangers": {
         "id": "product1",
         "type": "type0",
         "name": "bangers",
         "description": "Multi-colored sparklers that are safe for any age."
-      },
+      }
+    },
+    {
       "knock_out": {
         "id": "product2",
         "type": "type0",
         "name": "knock_out",
         "description": "Multi-colored sparklers that are safe for any age."
-      },
+      }
+    },
+    {
       "sky_rockets": {
         "id": "product3",
         "type": "type1",
         "name": "sky_rockets",
         "description": "Uses a solid-fuel rocket to rise quickly into the sky."
-      },
+      }
+    },
+    {
       "flashy_sparklers": {
         "id": "product4",
         "type": "type1",
         "name": "Fflashy_sparklers",
         "description": "Burns slowly while emitting colored flames and sparks"
-      },
+      }
+    },
+    {
       "roman_candles": {
         "id": "product5",
         "type": "type1",
         "name": "roman_candles",
         "description": "Ejects one or more stars or exploding shells. "
-      },
+      }
+    },
+    {
       "cake": {
         "id": "product6",
         "type": "type2",
         "name": "cake",
         "description": "Comprising a series of Roman candles, small aerial shells"
-      },
+      }
+    },
+    {
       "black_snake": {
         "id": "product7",
         "type": "type2",
         "name": "black_snake",
         "description": "After being lit, they begin to smoke and spew out ash resembling a snake"
-      },
+      }
+    },
+    {
       "catherine_wheel": {
         "id": "product8",
         "type": "type2",
         "name": "catherine_wheel",
         "description": "When ignited, the energy of the fireworks not only create sparks and flame, but cause the wheel to quickly rotate."
-      },
+      }
+    },
+    {
       "Barrel_bomb": {
         "id": "product9",
         "type": "type3",
         "name": "Barrel_bomb",
         "description": "Typically made from a large barrel-shaped metal container that has been filled with high explosives"
-      },
+      }
+    },
+    {
       "Bouncing_bomb": {
         "id": "product10",
         "type": "type3",
         "name": "Bouncing_bomb",
         "description": "A bouncing bomb is a bomb designed to bounce to a target across water."
-      },
+      }
+    },
+    {
       "Bunker_buster": {
         "id": "product11",
         "type": "type3",
         "name": "Bunker_buster",
         "description": "A bunker buster is a type of munition that is designed to penetrate hardened target."
-      },
+      }
+    },
+    {
       "Nail_bomb": {
         "id": "product12",
         "type": "type4",
         "name": "Nail_bomb",
         "description": "The nail bomb is an anti-personnel explosive device packed with nails."
-      },
+      }
+    },
+    {
       "Land_mine": {
         "id": "product13",
         "type": "type4",
         "name": "Land_mine",
         "description": "A land mine is an explosive device concealed under or on the ground. "
-      },
+      }
+    },
+    {
       "Smoke_bomb": {
         "id": "product14",
         "type": "type4",
         "name": "Smoke_bomb",
         "description": "A smoke bomb is a firework designed to produce smoke upon ignition."
-      },
+      }
+    },
+    {
       "Suitcase_bomb": {
         "id": "product15",
         "type": "type5",
         "name": "bang_snaps",
         "description": "A hypothetical tactical nuclear weapon that is portable enough that it could use a suitcase as its delivery method."
-      },
+      }
+    },
+    {
       "Stink_bomb": {
         "id": "product16",
         "type": "type5",
         "name": "Stink_bomb",
         "description": "Stink bombs range in effectiveness from simple pranks to military grade or riot control chemical agents."
-      },
+      }
+    },
+    {
       "TNT": {
         "id": "product17",
         "type": "type5",
