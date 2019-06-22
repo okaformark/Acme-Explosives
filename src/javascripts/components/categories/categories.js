@@ -10,10 +10,13 @@ const domStringBuilder = (buildCards) => {
   buildCards.forEach((card) => {
     domString += '<div class="card-group col-3">';
     domString += '<div class="card border-primary mb-3 mt-2 p-2 text-center ">';
-    domString += `<h5 class = "card-title"><button class = "btn btn-outline-danger"><B class="text-muted">Product Name:</B></button> <p class = "card-text">${card.name}</p></h5>`;
-    domString += `<h5 class = "card-title"><button class = "btn btn-outline-danger"><B class="text-muted">Category Name:</B></button><p class = "card-text">${card.catNames}</p></h5>`;
-    domString += `<h5 class = "card-title"><button class = "btn btn-outline-danger"><B class="text-muted">Type Name:</B></button><p class = "card-text">${card.typeName}</p></h5>`;
-    domString += `<h5 class = "card-title"><button class = "btn btn-outline-danger"><B class="text-muted">Description:</B></button><p class = "card-text">${card.description}</p></h5>`;
+    domString += `<img src = "${card.imageUrl}">`;
+    domString += '<div class="overlay">';
+    domString += `<h5><B>Product Name:</B></h5><p class = "card-text">${card.name}</p>`;
+    domString += `<h5><B>Category Name:</B></h5><p class = "card-text">${card.catNames}</p>`;
+    domString += `<h5><B>Type Name:</B></h5><p class = "card-text">${card.typeName}</p>`;
+    domString += `<h5><B>Description:</B></h5><p class = "card-text">${card.description}</p>`;
+    domString += '</div>';
     domString += '</div>';
     domString += '</div>';
     domString += '</div>';

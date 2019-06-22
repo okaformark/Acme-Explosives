@@ -5,7 +5,8 @@
         "id": "product0",
         "type": "type0",
         "name": "Fairy Sparklers",
-        "description": "Multi-colored sparklers that are safe for any age."
+        "description": "Multi-colored sparklers that are safe for any age.",
+        "imageUrl": "https://image.pushauction.com/0/0/28b27c4f-7f5a-465d-b47b-de17912d503e/90c64af4-6628-40f6-9a07-895f286b044c.jpg"
       }
   },
   {
@@ -13,7 +14,8 @@
         "id": "product1",
         "type": "type0",
         "name": "bangers",
-        "description": "Multi-colored sparklers that are safe for any age."
+        "description": "Multi-colored sparklers that are safe for any age.",
+        "imageUrl": "https://www.margosupplies.com/usa/images/products/large/6000.jpg"
       }
     },
     {
@@ -21,7 +23,8 @@
         "id": "product2",
         "type": "type0",
         "name": "knock out",
-        "description": "Multi-colored sparklers that are safe for any age."
+        "description": "Multi-colored sparklers that are safe for any age.",
+        "imageUrl": "https://ocdn.eu/pulscms-transforms/1/tsGk9kpTURBXy8wMjViOGQ1ZmQ0MWVkZWY1NDA1ZDgxMmE5YTU1MjBlOC5wbmeSlQMAA80CgM0BaJMFzQMUzQG8gaEwAQ"
       }
     },
     {
@@ -29,7 +32,8 @@
         "id": "product3",
         "type": "type1",
         "name": "sky rockets",
-        "description": "Uses a solid-fuel rocket to rise quickly into the sky."
+        "description": "Uses a solid-fuel rocket to rise quickly into the sky.",
+        "imageUrl": "https://amp.businessinsider.com/images/5a039c873dbef4f1018b4d5f-750-562.jpg"
       }
     },
     {
@@ -37,7 +41,8 @@
         "id": "product4",
         "type": "type1",
         "name": "Flashy sparklers",
-        "description": "Burns slowly while emitting colored flames and sparks"
+        "description": "Burns slowly while emitting colored flames and sparks",
+        "imageUrl": "https://i2-prod.plymouthherald.co.uk/news/plymouth-news/article2184496.ece/ALTERNATES/s615/0_sparkler-1149641_1920.jpg"
       }
     },
     {
@@ -45,7 +50,8 @@
         "id": "product5",
         "type": "type1",
         "name": "roman candles",
-        "description": "Ejects one or more stars or exploding shells. "
+        "description": "Ejects one or more stars or exploding shells. ",
+        "imageUrl": "https://keystonefireworks.com/wp-content/uploads/2016/01/Fireworks-Blog-_html_m7ec6ed0f-287x300.jpg"
       }
     },
     {
@@ -53,7 +59,8 @@
         "id": "product6",
         "type": "type2",
         "name": "cake",
-        "description": "Comprising a series of Roman candles, small aerial shells"
+        "description": "Comprising a series of Roman candles, small aerial shells",
+        "imageUrl": "https://cdn.instructables.com/FAI/ZRRG/IMUTQ4QJ/FAIZRRGIMUTQ4QJ.LARGE.jpg"
       }
     },
     {
@@ -61,7 +68,8 @@
         "id": "product7",
         "type": "type2",
         "name": "black snake",
-        "description": "After being lit, they begin to smoke and spew out ash resembling a snake"
+        "description": "After being lit, they begin to smoke and spew out ash resembling a snake",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Smoke_bomb_with_burning_fuse.jpg"
       }
     },
     {
@@ -69,7 +77,8 @@
         "id": "product8",
         "type": "type2",
         "name": "catherine wheel",
-        "description": "When ignited, the energy of the fireworks not only create sparks and flame, but cause the wheel to quickly rotate."
+        "description": "When ignited, the energy of the fireworks not only create sparks and flame, but cause the wheel to quickly rotate.",
+        "imageUrl": "https://live.staticflickr.com/2223/1890592355_2f36a60194_b.jpg"
       }
     },
     {
@@ -77,7 +86,8 @@
         "id": "product9",
         "type": "type3",
         "name": "Barrel bomb",
-        "description": "Typically made from a large barrel-shaped metal container that has been filled with high explosives"
+        "description": "Typically made from a large barrel-shaped metal container that has been filled with high explosives",
+        "imageUrl": "http://images2.naharnet.com/images/171927/w460.jpg?1446049147"
       }
     },
     {
@@ -85,7 +95,8 @@
         "id": "product10",
         "type": "type3",
         "name": "Bouncing bomb",
-        "description": "A bouncing bomb is a bomb designed to bounce to a target across water."
+        "description": "A bouncing bomb is a bomb designed to bounce to a target across water.",
+        "imageUrl": "http://www.williammaloney.com/Aviation/CanadianWarplaneHeritageMuseum/AvroLancaster/images/69UpkeepDamBustingBouncingBomb.jpg"
       }
     },
     {
@@ -93,7 +104,8 @@
         "id": "product11",
         "type": "type3",
         "name": "Bunker buster",
-        "description": "A bunker buster is a type of munition that is designed to penetrate hardened target."
+        "description": "A bunker buster is a type of munition that is designed to penetrate hardened target.",
+        "imageUrl": "https://cdni.rt.com/files/2019.06/xxs/5cfa24d0fc7e93314a8b4581.png"
       }
     },
     {
@@ -101,7 +113,8 @@
         "id": "product12",
         "type": "type4",
         "name": "Nail bomb",
-        "description": "The nail bomb is an anti-personnel explosive device packed with nails."
+        "description": "The nail bomb is an anti-personnel explosive device packed with nails.",
+        "imageUrl": "https://www.yourprops.com/movieprops/default/4acf75b07a461/Saw-III-HERO-NAIL-BOMB-USED-IN-TROY-S-SAW-3-CLASSROOM-TRAP-SCENE-HERO-NAIL-BOMB-USED-IN-MULTIPLE-SAW-V-TRAPS-1.jpg"
       }
     },
     {
@@ -109,7 +122,8 @@
         "id": "product13",
         "type": "type4",
         "name": "Land mine",
-        "description": "A land mine is an explosive device concealed under or on the ground. "
+        "description": "A land mine is an explosive device concealed under or on the ground. ",
+        "imageUrl": "https://media.istockphoto.com/photos/landmine-picture-id119249661?k=6&m=119249661&s=612x612&w=0&h=N6ubCTKwnLOSzTlS5_aLxN-yRi4_lFdsFd3gNL35nCg="
       }
     },
     {
@@ -117,7 +131,8 @@
         "id": "product14",
         "type": "type4",
         "name": "Smoke bomb",
-        "description": "A smoke bomb is a firework designed to produce smoke upon ignition."
+        "description": "A smoke bomb is a firework designed to produce smoke upon ignition.",
+        "imageUrl": "https://www.socialpaintball.com/wp-content/uploads/2019/02/GenderRevealSmokeGrenadeGirlPink.jpg"
       }
     },
     {
@@ -125,7 +140,8 @@
         "id": "product15",
         "type": "type5",
         "name": "bang snaps",
-        "description": "A hypothetical tactical nuclear weapon that is portable enough that it could use a suitcase as its delivery method."
+        "description": "A hypothetical tactical nuclear weapon that is portable enough that it could use a suitcase as its delivery method.",
+        "imageUrl": "https://live.staticflickr.com/3877/15131061630_5c1994abe1_b.jpg"
       }
     },
     {
@@ -133,7 +149,8 @@
         "id": "product16",
         "type": "type5",
         "name": "Stink bomb",
-        "description": "Stink bombs range in effectiveness from simple pranks to military grade or riot control chemical agents."
+        "description": "Stink bombs range in effectiveness from simple pranks to military grade or riot control chemical agents.",
+        "imageUrl": "http://www.hahaprank.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/t/stink-bombs.jpg"
       }
     },
     {
@@ -141,7 +158,8 @@
         "id": "product17",
         "type": "type5",
         "name": "TNT",
-        "description": "is a chemical compound with the formula C6H2(NO2)3CH3s."
+        "description": "is a chemical compound with the formula C6H2(NO2)3CH3s.",
+        "imageUrl": "https://static.turbosquid.com/Preview/2014/07/04__06_00_07/dynamit_1_c_0000.jpg36967fcd-e7fb-4209-be90-7ef239c5e2b6Original.jpg"
       }
     }
   ]
