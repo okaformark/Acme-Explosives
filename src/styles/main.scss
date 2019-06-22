@@ -1,4 +1,5 @@
 @import "~bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Permanent+Marker&display=swap');
 body {
   background-color: red;
 }
@@ -16,12 +17,10 @@ body {
 .overlay{
   padding: 30px;
 }
-// .overlay{
-//   position: absolute;
-//   top: 50%; left: 50%;
-//   transform: translate(-50%,-50%);
-//   background: black;
-//   color: white;
-//   padding: 1em;
-//   z-index: 0;
-// }
+h5{
+  font-family: 'Permanent Marker', cursive;
+}
+p{
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
