@@ -1,5 +1,4 @@
 import axios from 'axios';
-// import productData from './productsData';
 
 const getTypesForEachCategory = categories => new Promise((resolve, reject) => {
   axios.get('../db/types.json')
@@ -7,7 +6,6 @@ const getTypesForEachCategory = categories => new Promise((resolve, reject) => {
       const { types } = response.data;
       const typesWithCategories = types.map((type) => {
         const newType = type;
-        // console.error(typeof newType);
         const matchingCategory = categories.filter(category => category.id === type.category);
         newType.categoryName = matchingCategory[0].name;
         return newType;

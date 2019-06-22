@@ -5,7 +5,6 @@ import util from '../../helpers/util';
 
 
 const domStringBuilder = (buildCards) => {
-  // console.error(buildCards);
   let domString = '';
   buildCards.forEach((card) => {
     domString += '<div class="card-group col-3">';
